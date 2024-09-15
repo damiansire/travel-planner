@@ -2,22 +2,18 @@
   <ng-template pTemplate="header">
     <tr>
       <th>Price</th>
-      <th>From City</th>
-      <th>From Country</th>
+      <th>From</th>
       <th>Departure Date</th>
-      <th>To City</th>
-      <th>To Country</th>
+      <th>To</th>
       <th>Arrival Date</th>
     </tr>
   </ng-template>
   <ng-template pTemplate="body" let-ticket>
     <tr>
       <td>{{ ticket.price }}</td>
-      <td>{{ ticket.from.cityName }}</td>
-      <td>{{ ticket.from.countryName }}</td>
+      <td>{{ ticket.from.cityName }} - {{ ticket.from.countryName }}</td>
       <td>{{ ticket.from.utcTime }}</td>
-      <td>{{ ticket.to.cityName }}</td>
-      <td>{{ ticket.to.countryName }}</td>
+      <td>{{ ticket.to.cityName }} - {{ ticket.to.countryName }}</td>
       <td>{{ ticket.to.utcTime }}</td>
     </tr>
   </ng-template>
