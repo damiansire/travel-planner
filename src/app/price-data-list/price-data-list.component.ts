@@ -1,8 +1,7 @@
 import { Component, inject } from '@angular/core';
-import { TravelPriceService } from '../services/travel-price.service';
-import { FlightDetails } from '../interfaces/travel.interfaces';
-import { FlightCardComponent } from './flight-card/flight-card.component';
+import { TravelPriceService } from '../shared/services/travel-price.service';
 import { TableModule } from 'primeng/table';
+import { FlightDetails } from '../shared/interfaces/travel.interfaces';
 
 @Component({
   selector: 'app-price-data-list',
