@@ -1,0 +1,512 @@
+[
+  {
+    "price": "752",
+    "from": {
+      "utcTime": "2024-12-27T19:20:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2024-12-29T00:55:00",
+      "cityCode": "HGH",
+      "cityName": "Hangzhou",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "814",
+    "from": {
+      "utcTime": "2025-01-01T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T16:10:00",
+      "cityCode": "BKK",
+      "cityName": "Bangkok",
+      "countryCode": "TH",
+      "countryName": "Tailandia"
+    }
+  },
+  {
+    "price": "873",
+    "from": {
+      "utcTime": "2024-12-26T04:59:00",
+      "cityCode": "CTG",
+      "cityName": "Cartagena de Indias",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-28T13:25:00",
+      "cityCode": "KMG",
+      "cityName": "Kunmíng",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "874.341",
+    "from": {
+      "utcTime": "2024-12-29T04:59:00",
+      "cityCode": "CTG",
+      "cityName": "Cartagena de Indias",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-30T21:00:00",
+      "cityCode": "SZX",
+      "cityName": "Shenzhen",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "894",
+    "from": {
+      "utcTime": "2024-12-30T12:00:00",
+      "cityCode": "BOG",
+      "cityName": "Bogotá",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-31T21:55:00",
+      "cityCode": "BJS",
+      "cityName": "Pekín",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "898",
+    "from": {
+      "utcTime": "2024-12-29T04:59:00",
+      "cityCode": "CTG",
+      "cityName": "Cartagena de Indias",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-31T16:25:00",
+      "cityCode": "SYX",
+      "cityName": "Sanya",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "918",
+    "from": {
+      "utcTime": "2024-12-31T04:59:00",
+      "cityCode": "CTG",
+      "cityName": "Cartagena de Indias",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2025-01-02T03:50:00",
+      "cityCode": "WNZ",
+      "cityName": "Wenzhou",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "926",
+    "from": {
+      "utcTime": "2025-01-08T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-10T00:05:00",
+      "cityCode": "JKT",
+      "cityName": "Yakarta",
+      "countryCode": "ID",
+      "countryName": "Indonesia"
+    }
+  },
+  {
+    "price": "936",
+    "from": {
+      "utcTime": "2024-12-31T19:55:00",
+      "cityCode": "BOG",
+      "cityName": "Bogotá",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2025-01-02T07:15:00",
+      "cityCode": "CTU",
+      "cityName": "Chengdú",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "939.8817",
+    "from": {
+      "utcTime": "2024-12-29T04:59:00",
+      "cityCode": "CTG",
+      "cityName": "Cartagena de Indias",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-31T06:20:00",
+      "cityCode": "NGB",
+      "cityName": "Ningbó",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "944",
+    "from": {
+      "utcTime": "2024-12-29T22:25:00",
+      "cityCode": "BOG",
+      "cityName": "Bogotá",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-31T11:55:00",
+      "cityCode": "SIA",
+      "cityName": "Xi'an",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "945",
+    "from": {
+      "utcTime": "2024-12-29T22:25:00",
+      "cityCode": "BOG",
+      "cityName": "Bogotá",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-31T16:55:00",
+      "cityCode": "CAN",
+      "cityName": "Cantón",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "978",
+    "from": {
+      "utcTime": "2024-12-31T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-01T14:10:00",
+      "cityCode": "MNL",
+      "cityName": "Manila",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1011",
+    "from": {
+      "utcTime": "2024-12-31T19:55:00",
+      "cityCode": "BOG",
+      "cityName": "Bogotá",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2025-01-01T22:40:00",
+      "cityCode": "SHA",
+      "cityName": "Shanghái",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "1015",
+    "from": {
+      "utcTime": "2025-01-01T04:30:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T11:05:00",
+      "cityCode": "DPS",
+      "cityName": "Denpasar",
+      "countryCode": "ID",
+      "countryName": "Indonesia"
+    }
+  },
+  {
+    "price": "1021",
+    "from": {
+      "utcTime": "2024-12-31T19:55:00",
+      "cityCode": "BOG",
+      "cityName": "Bogotá",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2025-01-02T11:10:00",
+      "cityCode": "CKG",
+      "cityName": "Chongqing",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "1052",
+    "from": {
+      "utcTime": "2024-12-30T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-01T09:25:00",
+      "cityCode": "BPN",
+      "cityName": "Balikpapan",
+      "countryCode": "ID",
+      "countryName": "Indonesia"
+    }
+  },
+  {
+    "price": "1096",
+    "from": {
+      "utcTime": "2024-12-31T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-01T21:10:00",
+      "cityCode": "ILO",
+      "cityName": "Iloílo",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1105",
+    "from": {
+      "utcTime": "2024-12-26T02:20:00",
+      "cityCode": "CTG",
+      "cityName": "Cartagena de Indias",
+      "countryCode": "CO",
+      "countryName": "Colombia"
+    },
+    "to": {
+      "utcTime": "2024-12-27T14:40:00",
+      "cityCode": "URC",
+      "cityName": "Urumchi",
+      "countryCode": "CN",
+      "countryName": "China"
+    }
+  },
+  {
+    "price": "1109",
+    "from": {
+      "utcTime": "2024-12-31T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T13:30:00",
+      "cityCode": "DGT",
+      "cityName": "Dumaguete",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1110",
+    "from": {
+      "utcTime": "2024-12-31T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T07:25:00",
+      "cityCode": "CEB",
+      "cityName": "Cebú",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1111",
+    "from": {
+      "utcTime": "2025-01-01T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T14:30:00",
+      "cityCode": "BCD",
+      "cityName": "Bacólod",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1111",
+    "from": {
+      "utcTime": "2024-12-31T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T11:25:00",
+      "cityCode": "TAC",
+      "cityName": "Tacloban",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1112",
+    "from": {
+      "utcTime": "2025-01-01T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T13:00:00",
+      "cityCode": "CGY",
+      "cityName": "Cagayán de Oro",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1112",
+    "from": {
+      "utcTime": "2024-12-31T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T12:00:00",
+      "cityCode": "BXU",
+      "cityName": "Butuán",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1118",
+    "from": {
+      "utcTime": "2025-01-01T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T13:15:00",
+      "cityCode": "TAG",
+      "cityName": "Panglao",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1119",
+    "from": {
+      "utcTime": "2024-12-31T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T07:00:00",
+      "cityCode": "KLO",
+      "cityName": "Kalibo",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1126",
+    "from": {
+      "utcTime": "2025-01-01T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T14:55:00",
+      "cityCode": "DVO",
+      "cityName": "Dávao",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1129",
+    "from": {
+      "utcTime": "2024-12-31T23:25:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T07:20:00",
+      "cityCode": "MPH",
+      "cityName": "Caticlan",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  },
+  {
+    "price": "1133",
+    "from": {
+      "utcTime": "2025-01-01T04:10:00",
+      "cityCode": "SAO",
+      "cityName": "São Paulo",
+      "countryCode": "BR",
+      "countryName": "Brasil"
+    },
+    "to": {
+      "utcTime": "2025-01-02T13:30:00",
+      "cityCode": "PPS",
+      "cityName": "Puerto Princesa",
+      "countryCode": "PH",
+      "countryName": "Filipinas"
+    }
+  }
+]
