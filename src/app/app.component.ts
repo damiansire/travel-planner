@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { TravelPathCalculatorComponent } from './travel-path-calculator/travel-path-calculator.component';
-import { PriceDataListComponent } from './price-data-list/price-data-list.component';
 import { ButtonModule } from 'primeng/button';
+import { PriceDataListComponent } from './pages/price-data-list/price-data-list.component';
+import { TravelPathCalculatorComponent } from './pages/travel-path-calculator/travel-path-calculator.component';
+import { SidebarComponent } from './shared/components/sidebar/sidebar.component';
 
 @Component({
   selector: 'app-root',
@@ -12,6 +13,7 @@ import { ButtonModule } from 'primeng/button';
     TravelPathCalculatorComponent,
     PriceDataListComponent,
     ButtonModule,
+    SidebarComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
