@@ -1,0 +1,22 @@
+<div class="card">
+  @if (flight) {
+  <div class="departure">
+    <h3>{{ flight.from.cityName }} ({{ flight.from.cityCode }})</h3>
+    <p>{{ flight.from.countryName }}</p>
+    <p>{{ flight.from.utcTime | date : "medium" }}</p>
+  </div>
+  <div class="arrow">
+    <span>&rarr;</span>
+  </div>
+  <div class="arrival">
+    <h3>{{ flight.to.cityName }} ({{ flight.to.cityCode }})</h3>
+    <p>{{ flight.to.countryName }}</p>
+    <p>{{ flight.to.utcTime | date : "medium" }}</p>
+  </div>
+  <div class="price">
+    <p>{{ flight.price | currency }}</p>
+  </div>
+  } @else {
+  <div>Loading</div>
+  }
+</div>

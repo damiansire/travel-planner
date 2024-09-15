@@ -1,1 +1,4 @@
-<p>price-data-list works!</p>
+@for (flight of allTickets; track $index) {
+<app-flight-card [flight]="flight"></app-flight-card>
+
+}
